@@ -2,7 +2,6 @@
 
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange.svg)](https://jupyter.org/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains three deep learning models — **RNN**, **LSTM**, and **GRU** — implemented in Jupyter notebooks to perform **emotion-based sentiment analysis** on text data. The models aim to classify text samples (like tweets or messages) into different emotion categories such as **joy, sadness, anger, fear**, etc.
 
